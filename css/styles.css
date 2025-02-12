@@ -204,7 +204,7 @@ button {
 .features {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-color: #f4f4fd;
   margin: 0 auto;
 }
 .visually-hidden {
@@ -258,7 +258,7 @@ button {
 /* #endregion */
 /* #region team */
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
   margin: 0 auto;
@@ -337,8 +337,7 @@ button {
 /* #endregion */
 /* #region portfolio */
 .portfolio {
-  max-width: 1440px;
-  background-color: #ffffff;
+  background-color: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
   margin: 0 auto;
@@ -544,10 +543,7 @@ footer .span-logo {
 }
 .footer-btn {
   border-radius: 4px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 24px;
-  margin-right: 16px;
+  padding: 8px 24px;
   min-width: 165px;
   height: 40px;
   background-color: #4d5ae5;
@@ -713,14 +709,13 @@ footer .span-logo {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  /* display: flex;
-  align-items: center; */
 }
 .modal-check-item {
   width: 16px;
   height: 16px;
   margin-right: 8px;
   border-radius: 2px;
+  font-size: 12px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1),
@@ -737,11 +732,10 @@ footer .span-logo {
 }
 .policy-text {
   line-height: 1.33;
+  font-size: 12px;
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
-  display: flex;
-  align-items: center;
 }
 .modal-button {
   display: block;
