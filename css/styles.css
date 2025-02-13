@@ -204,7 +204,7 @@ button {
 .features {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #f4f4fd;
+  background-color: #ffffff;
   margin: 0 auto;
 }
 .visually-hidden {
@@ -337,7 +337,7 @@ button {
 /* #endregion */
 /* #region portfolio */
 .portfolio {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
   padding-top: 120px;
   padding-bottom: 120px;
   margin: 0 auto;
