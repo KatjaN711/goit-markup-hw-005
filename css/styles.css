@@ -739,7 +739,7 @@ footer .span-logo {
 }
 .modal-button {
   display: block;
-  margin: 24px auto;
+  margin: auto;
   min-width: 169px;
   height: 56px;
   font-family: "Roboto" sans-serif;
